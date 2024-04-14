@@ -10,7 +10,7 @@ public class Main{
         C= scan.nextFloat();
         salario = C * B;
         System.out.println("NUMBER = "+A);
-        System.out.printf("SALARY = U$ %.3f",salario);
+        System.out.printf("SALARY = U$ %.2f",salario);
         System.out.println();
     
     }
